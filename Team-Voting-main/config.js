@@ -1,6 +1,7 @@
 import firebase from 'firebase';
 
 // add SDK Firebase
+//added the sdk file
 var firebaseConfig = {
     apiKey: "AIzaSyC89nZ2CmKdalVtSlzaaXlyumkqf1hOs84",
     authDomain: "voting-app-project-58791.firebaseapp.com",
